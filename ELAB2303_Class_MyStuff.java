@@ -14,7 +14,7 @@ class MyStuff {
 
 }
 
-public class ELAB2303 {
+public class ELAB2303_Class_MyStuff {
     public static void main(String[] args) {
         MyStuff m1 = new MyStuff("PC");
         MyStuff m2 = new MyStuff("PC");
